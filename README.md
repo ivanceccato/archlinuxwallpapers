@@ -1,2 +1,2 @@
 # archlinuxwallpapers
-Wallpapers for arch Fans
+Wallpapers for Arch Fans
